@@ -7,4 +7,4 @@ You will need only one module for this project
 ```
 import random
 ```
-This module generate random number.
+This module will generate a random number.
